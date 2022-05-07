@@ -14,7 +14,7 @@
 
 .right {
     margin-top: 10px;
-    display: inline-block;
+    /* display: inline-block; */
     width: 9%;
     height: 550px;
     background: gray;
@@ -34,7 +34,7 @@
 
 .container2 {
     position: absolute;
-    left: 153px;
+    left: 137px;
     background: gray;
     width: 79.7%;
     height: 280px;
